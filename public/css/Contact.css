@@ -1,0 +1,44 @@
+nav{
+    background-color: black;
+    color: white;
+}
+
+a {
+color: white;
+right: 100px;   
+top: 50px;
+}
+footer {
+    background-color: black;
+    color: white    ;
+}
+
+h4 {
+    top: 1%;
+    right: 25%;
+font-size: 250%;
+    position: absolute;
+font-weight: lighter;
+}
+
+body {
+
+    margin-left:15%; margin-right:15%;
+}
+
+@media screen and (max-width: 576px) 
+{ 
+    h1
+    { 
+        font-size : 20px; 
+    } 
+} 
+
+@media screen and (max-width: 768px) 
+{ 
+    h1 
+    { 
+        font-size : 40px; 
+    } 
+}     
+
